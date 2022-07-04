@@ -43,4 +43,4 @@ El sitio debe contar con cierta **funcionalidad javascript** acorde al dominio d
 
 * Aprobar el Trabajo Final es requisito para aprobar el cursado de la materia **Programación Estática y Laboratorio Web**
 
-[^Alumno]: **Aliaga Vidal, Celeste Belén** -- FAI-3757
+**Alumno:** ***Aliaga Vidal, Celeste Belén -- FAI-3757***
