@@ -23,16 +23,16 @@ Con esto se busca que el estudiante realice un análisis de los contenidos neces
 * Cantidad de **páginas**: 6 como mínimo.
 * La **estructura** del sitio debe reflejarse en cada una de las páginas. Es decir, tener menú, encabezado y pie general en todas las páginas.
 * Un **formulario** para validación con JavaScript. El formulario debe tener uno o más campos con validación de todos los siguientes tipos validados:
-    - [ ] Fecha. Debe validarse fecha correctas (29 de febrero solo en año bisiestos, 31 de junio por ejemplo NO es válido, ingresar caracteres no numéricos, etc).
-    - [ ] Numérico Entero, con control de mayor a cero.
+    - [x] Fecha. Debe validarse fecha correctas (29 de febrero solo en año bisiestos, 31 de junio por ejemplo NO es válido, ingresar caracteres no numéricos, etc).
+    - [x] Numérico Entero, con control de mayor a cero.
     - [ ] Numérico decimal.
-    - [ ] Correo electrónico.
+    - [x] Correo electrónico.
 * Además, el formulario debe controlar algunos campos como **obligatorios**, y otros como **optativos**.
 * La **validación** debe ser visual: cambiando el color de fondo, bordes, label adicional, color del label, etc. La validación debe ser completa, es decir: mostrando todos los campos que fallaron la validación, no solamente el primero.
 
 ### Funcionalidad JavaScript
 
-El sitio debe contar con cierta **funcionalidad javascript** acorde al dominio del mismo.
+El sitio debe contar con cierta **funcionalidad JavaScript** acorde al dominio del mismo.
 
 ## Estilos CSS
 
